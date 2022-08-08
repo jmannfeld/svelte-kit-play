@@ -20,7 +20,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to SvelteKit!
 	</h1>
 
 	<h2>
